@@ -1,0 +1,113 @@
+Title,Excerpt,Pub_Date
+Consuming APIs responsibly,Or: Etiquette and table manners for pinging other people's servers.,Nov 2022
+Create a series of posts with navigation in Jekyll,Add Jekyll posts into a series with series navigation.,Feb 2022
+A practical guide to light and dark mode in Bootstrap 5 and Jekyll,Implementing light and dark mode on your Bootstrap 5 + Jekyll website.,Jan 2022
+Nemo - The Ubuntu file manager you didn’t know you needed,Celebrate 2022 with a shiny new file manager for Ubuntu!,Jan 2022
+Announcing Fediverse.to!,I've been working on a search engine for Fediverse instances!,Jan 2022
+Easy pretty URL redirects with Jekyll and Netlify,Combine Jekyll and Netlify to create pretty URL redirects as easy as 1-2-3.,Nov 2021
+Linking Jekyll pages back to their Git source code,Add a link back to the public Git hosting link for any static Jekyll blog.,Nov 2021
+Optimising JPG and PNG images for a Jekyll website,Use CLI tools to generate resized and optimised thumbnails for articles header images.,Nov 2021
+Quick and easy client-side JavaScript search with Lunr.js,Display search results from any JSON data object in the browser using Lunr.js.,Nov 2021
+Creating light and dark themes for websites the right way using prefers-color-scheme,Blur the line between desktop and web by letting the OS style your website or webapp.,Oct 2021
+"Make Linux apps for Notion, Mastodon, or any web app using Nativefier","Notion is an awesome life manager. And Mastodon is great for decentralised internet shenanigans. With Nativefier, I can now enjoy them as apps on Ubuntu 20.04.",Oct 2021
+Inserting dynamic data into Jekyll static sites using Python or Bash,Auto-generate Jekyll configuration files with content and avoid creating an API backend.,Oct 2021
+Introduction to Ansible,Ansible is the answer to custom scripts and tooling that eventually snowball into a kludge which breaks more things than it fixes.,Aug 2021
+Introduction to YAML,What is YAML and why is it about time we started using it?,Aug 2021
+Introduction to Jekyll,"Jekyll is a framework for building websites - write your content in Markdown, use HTML/CSS for structure and presentation, and Jekyll compiles it all into static HTML. No servers. No backends. No fuss.",Aug 2021
+Multi-machine Setup and Configuration with Vagrant,"If you ever need to test an app and a database, did you know you can use Vagrant to bring up multiple testing machines at once? Here's how.",Aug 2021
+Provisioning with Vagrant,Ansible works well to provision a Vagrant box with everything installed from the get-go.,Aug 2021
+Introduction to Vagrant,"Vagrant helps you run other operating systems on your computer, meaning you can build things, test things, and do crazy shit without blowing up your own system.",Aug 2021
+A Guide to Web Scraping in Python using BeautifulSoup,Web-scraping is a useful but often neglected technical skill. The BeautifulSoup library in Python makes extracting HTML from web pages easy. Do with that what you will ;),Aug 2021
+Using variables in Jekyll to define custom content,I recently discovered that Jekyll's config.yml can be used to define custom variables for reusing content. I feel like I've been living under a rock all this time. But to err over and over again is human.,Aug 2021
+"The evolution of ayushsharma.in: Jekyll, Bootstrap, Netlify, static websites, and responsive design.","In this article, I'll highlight some ideas for Jekyll collections, blog category pages, responsive web-design, and netlify.toml to make static website maintenance a breeze.",Jul 2021
+5 key best practices for sane and usable Terraform setups,These are the top 5 lessons I've learned after 5 years of Terraform-ing.,Jul 2021
+Cloud Infrastructure SAST: Scanning Terraform for security vulnerabilities and non-compliance using Checkov,"In this article I explore Checkov, a static code analysis tool for Terraform.",Jul 2021
+Terraform + Helm: A match made in heaven/hell?,I've just discovered that Terraform can deploy Helm Charts as well. But I'm not sure if I like it.,Jul 2021
+Automating ArgoCD using ArgoCD!,"In this tutorial, I will show you how to automatically create multiple Applications in ArgoCD using ArgoCD!",Jul 2021
+Getting started with ArgoCD,In this post we meet ArgoCD: a simple pull-based GitOps deployment tool which syncs K8s manifest files with a cluster for easy and no-nonsense deployments.,Jul 2021
+"Creating ready-to-use AWS Security Groups using Terraform Registry, Named Groups, and Named Rules",Create parameterized AWS security groups quickly and consistently with Terraform Registry.,Sep 2020
+Creating AWS VPCs in 2 minutes with Terraform Registry,Create parameterized AWS VPCs quickly and consistently with Terraform Registry.,Sep 2020
+Continuous delivery on GitLab: Pushing Docker images to DockerHub using GitLab Pipelines,Build and push Docker images to DockerHub using GitLab's Pipelines feature.,Jun 2020
+Configuring Elasticsearch snapshots using SLM on Google Compute Engine,A tutorial on how to configure automatic snapshots of Elasticsearch using the in-built Snapshot Lifecycle Manager on Google Compute Engine.,Jun 2020
+​​Working From Home and Software Engineering,"Your time and attention is your primary resource, so deploy it wisely.",Jun 2020
+​​The Virus ​😷​ and the Cloud ​⛅​: Tips on AWS cost-saving in these weird ​🤯​ times,2020 is the year startups are trying to save aggresively on cloud spend. I list down some key learnings based on my experience.,Apr 2020
+Replicating Bitbucket Pipelines on your laptop for local debugging,"I love Bitbucket Pipelines, and debugging them on your laptop is even easier thanks to Docker containers. I'll show you how to debug Serverless deployments and diagnose broken builds.",Mar 2020
+Cloning another Bitbucket repository in Bitbucket Pipelines,I'll show you how to allow one Bitbucket repo to clone another during a Pipeline build.,Feb 2020
+Deploying git submodules in Bitbucket Pipelines,"Git submodules makes it easy have repos for common dependencies, but how to actually clone them in your Bitbucket Pipeline?",Feb 2020
+Automating Amazon Elastic Container (ECR) container builds using Bitbucket Pipelines,"I'll show you how to build a Docker image in a Pipeline and push it to a container registry, in this case Amazon ECR.",Aug 2019
+Taming AWS costs with Cost and Usage Reports + AWS Athena,AWS Cost & Usage Reports with AWS Athena are vital for understanding cloud spend. I'll show you some handy Athena queries to break things down.,Aug 2019
+Exporting Bitucket repositories and Pipelines with Python,"Bitbucket doesn't offer a dashboard yet, or an easy way to fetch information for all your repos and Pipelines. So I wrote a handy Python script for the job. It's great for configuring alerts or building near-real-time dashboards!",Jun 2019
+Rediscovering Logo with Bob the turtle,My very first programming language was Logo! I can still remember guiding that fuzzy little on-screen turtle to draw simple and complex shapes. So I found the Logo Python module and took a walk down memory lane.,Jun 2019
+Automating Serverless framework deployments using Bitbucket Pipelines,The open-source Serverless framework makes it easy to build and deploy Lambda stacks. I'll walk you through deploying Serverless apps automatically using Pipelines.,May 2019
+Automating AWS Lambda deployments using Bitbucket Pipelines and Bitbucket Pipes,"Pipes is another great Continuous Delivery feature in Bitbucket: pre-built, ready-to-use, and parameterized deployment jobs.",May 2019
+Algorithms in Python: Exchange Sorts,Notes on implementing the basic Exchange sort algorithms in Python.,Mar 2019
+The Three Ways of DevOps: Notes on The Phoenix Project,"The Phoenix Project is one of the most approachable books for DevOps available today. Highly recommended, especially if you don't already know Conway's Law.",Jan 2019
+Working with NumPy in Python,My Udacity Python Nanodegree introduced using NumPy to handle large arrays and datasets in Python. I put some notes togther for referencing later.,Oct 2018
+Data Types in Python,Some quick notes describing the basic data types in Python3 and their features.,Sep 2018
+Dockerizing Tweet-Toot: A practical guide to deploying your app using Docker,"Tweet-Toot is my personal project, a Twitter relay for the Mastodon social network. I recently dockerized the setup and put these notes together to explain the process.",Sep 2018
+SublimeText 3 setup for Jekyll development,SublimeText has some cool plugins for setting up a basic Jekyll development environment. Take a look.,Sep 2018
+Gartner's Magic Quadrants: A summary of cloud Infrastructure-as-a-Service providers over the last 5 years,Gartner's Magic Quadrants was one of the the first industry reports I read which covered where the cloud vendor's were headed and what their strengths and weaknesses were. I took some time to consolidate the Gartner findings over the last 5 years for comparison.,Sep 2018
+Tweet-Toot: Building a bot for Mastodon using Python,"I joined the Mastodon social network in 2016 and felt a need for building a Twitter relay. We all left the birdsite for many reasons but not the people we met. So this project is a way to bring some of them over to Mastodon, in practice if not in spirit.",Sep 2018
+Moving from CloudFlare to StackPath,"I love Cloudflare, but after facing some issues with TTFB I decided to move to StackPath, which proved to be a lot faster and feature-rich.",Jul 2018
+Understanding vendor lock-in and breaking the cycle,"I went through one of Gartner's reports, and it says the key to breaking vendor lock-in is to commit fully to a single technology vendor, be it a cloud software provider, a social network, or our favorite sharing app. It seems controversial on the surface, but I wanted to jot down some quick notes. Maybe the approach is worth experimenting with?",Jul 2018
+Rolling clusters for deployment with Terraform,"Terraform enables more than infrastructure provisioning, you can even use it for deployments. Combine it with Packer, and you can have a very powerful immutable rolling deployment pipeline.",Jul 2018
+Working with Terraform Modules,Terraform's Modules feature allows quickly building re-usable infrastructure templates to provision cloud environments repeatably. These notes will help set up a basic application for high-availability.,Jul 2018
+Getting started with Terraform,"A basic walkthrough of Terraform, the open-source, cloud-agnostic IaC tool by HashiCorp, the makers of Vagrant.",Oct 2017
+Upgrading to HTTP/2,It's about time we all move our web properties to HTTP/2. I list down some gotchas for those looking to migrate.,Sep 2017
+HTTP security headers: Referrer-Policy,"The web is a collection of inter-connected pages. This means chances are good that someone landing on your website is coming from another one, and when they leave your website, they take a lot of identifiable information with them. HTTP/2 allows you to control what happens to the referrer information when users leave your website.",Sep 2017
+HTTP security headers: X-Content-Type-Options,HTTP/2 introduced a new feature which basically just turns off an old default feature: the browser's hankering for figuring out the content type of a resource. Why and how should we turn it off?,Sep 2017
+HTTP security headers: X-Frame-Options,Inline-frames enable very basic phishing attacks. You can just include a bank's main website within your own website and lure the user to handover their passwords. HTTP2/ comes with built-in protection against this kind of threat.,Sep 2017
+HTTP security headers: HTTP-Strict-Transport-Security,"HSTS is a security feature which prevents users from accessing your website over non-secure HTTP. It comes with HTTP/2, is easy to turn on, but very hard to turn off. Here's the why and how.",Sep 2017
+HTTP security headers: X-XSS-Protection,HTTP/2 comes with built-in protection for XSS. Here's what it does and how to turn it on.,Sep 2017
+HTTP security headers: Content-Security-Policy,HTTP/2's CSP let's you define a white-list of what's allowed and what's blocked on your website. This lets browsers block third-party trackers which try to annoy/harm your users. Here's the why and how.,Sep 2017
+I'm killing Disqus comments on my blog. Here's why.,I added the Disqus commenting platform to my blog some time ago. And then I found out that it was loading WAY TOO MANY tracking cookies inline and profiling my website users. This is how you build Orwellian software. And shitty software.,Sep 2017
+Posting messages to Slack using incoming webhooks and Python3 Requests API,Slack has become a favorite of DevOps/SRE teams across the globe. It's a very easy-to-use and programmatic messaging platform. Here's the quick and easy process to posting messages to your Slack group from Python.,Sep 2017
+"Using Packer and Ansible to create immutable servers, deploying code, and recycling instances",Packer is an amazing golden image builder. Ansible is a great deployment tool. So let's use them together!,Sep 2017
+Getting started with Packer,"Packer. Basically Docker for whole VMs. Another great tool by HashiCorp, this one modernises an old formula but retains the simplicity. Building immutable servers was never this easy.",Sep 2017
+The different ways I've deployed code over the years: the road to Immutable Servers,"I took a walk down memory lane to try and figure out how much my daily work has changed. The concepts are still the same, but the tools have become bigger, because our needs have shifted dramatically over the years.",Sep 2017
+Testing AWS Elastic Load Balancer health check endpoints with Python,A quick script for ad-hoc health-checking of load balancer instances.,Sep 2017
+Complete Nginx Monitoring with Collectd and InfluxDB,I recently discovered InfluxDB as a great write-heavy database for storing metrics. These are my notes on monitoring the golden signals in Nginx using Collectd and InfluxDB.,Aug 2017
+Deploying Jekyll blog automatically using Bitbucket Pipelines,Because why not? Here's how to build your Jekyll website and deploy it to a VM of your choice.,Aug 2017
+Migrating MySQL database tables to InfluxDB,"If you ever need to migrate a MySQL database to InfluxDB, say if you were using MySQL as a metrics database because you were too busy not knowing Influx even existed, then this handy Python script can do the job and take care of schema migrations too.",Aug 2017
+Backing up InfluxDB databases to S3,A handy bash script to backup your InfluxDB database to AWS S3; great for cron jobs.,Aug 2017
+Setting Up Grafana to use Collectd and InfluxDB,"Grafana provides out-of-the-box support for InfluxDB, so visualising the metrics you're collecting using Collectd, etc., is straightforward. Here's how to do it.",Aug 2017
+Setting up Collectd and InfluxDB on Mac OS X,A quick copy-paste-able process for installing Collectd and InfluxDB on your Mac for some local testing.,Aug 2017
+Getting Started with time-series data using InfluxDB,"A quick comparison of relational vs time-series databases, followed by a brief hands-on tutorial for InfluxDB on a local Mac OS.",Aug 2017
+Getting started with server metrics collection with Collectd,"Collectd, a C-based daemon, is a fast and lightweight metrics shipper.",Aug 2017
+Retry Strategies for Transient Failures,"A very basic reality of computer networking is that... it fails. And when it does, there are ways to retry your connections to make life easier for you and other clients as well.",Aug 2017
+Using Route 53 as a Load Balancer,"AWS Elastic load balancers do their job well, but they can get pricey. So naturally I tried using Route53 for load balancing traffic. It was a lot harder than I thought, and while this experiment didn't succeed, I'm noting my approach here for better luck next time.",Aug 2017
+MySQL Database backups to S3,A handy bash script to backup all MySQL databases to AWS S3.,Aug 2017
+Mastodon Users and Instances in Sqlite3 Using Python,The title really says it all: exporting data from JSON and ingesting into Sqlite3.,Apr 2017
+The Ultimate Guide to Using Mail in Linux,I installed mutt to send email from the command-line. It's fast and the CLI switches are memorable. Worth a look if you use the CLI for sending emails a lot.,Apr 2017
+Fixing ValueError('unknown locale: %s' % localename) in Python,You get 3 guesses for what the solution could be...,Mar 2017
+Getting Started with Xinetd,"Xinetd is a light-weight and straightfoward HTTP server. Not as powerful as Nginx, but it's great for simple things like configuring health checks.",Mar 2017
+"Getting City, Country and ISP of an IP address using Maxmind GeoIP",The Maxmind GeoIP database is useful for looking up the country and ISP information for an IP address.,Mar 2017
+"AWS, GCS, Azure and Digital Ocean incidents by service in 2016",I pulled the data for technology incidents for the major cloud services. The findings were pretty interesting.,Mar 2017
+I Have Something to Say II,These have been the confessions of a firefighter who ignored the smoke.,Mar 2017
+"Using Weighted, Geo and Fail-over Routeing in Route 53","At work, one of my recent projects involved setting up a multi-region failover with weighted-routing support. Thankfully, Route53 has all of these built-in. Here's how to do it.",Mar 2017
+You still might need a staging server in 2017,It's 2017 and the cloud has matured by leaps and bounds. So do we still need staging servers?,Mar 2017
+"AWS, GCS, Azure and Digital Ocean incidents in 2016",I pulled the data for technology incidents on the major cloud platforms. The findings were pretty interesting.,Mar 2017
+I Have Something to Say,"Ten years from now, if or when I am in another job, no one is going to care whether I ran my production servers with my heart and soul. They will care if I saved money, they will care if I ran it efficiently, but you can do those things while still compromising your values.",Mar 2017
+Connecting VPCs in 2 AWS Regions (Site-to-site VPN),A step-by-step guide for connecting 2 AWS VPSs using self-hosted StrongSwan VPNs.,Feb 2017
+Installing PHP 7 FPM + MySQL 5.7 + Nginx 1.10 on Ubuntu 16.04,"These are instructions for installing PHP7, MySQL 5.7 and Nginx 1.10 on Ubuntu 16.04. Very copy-paste-able.",Feb 2017
+Working with Logical Volume Manager (LVM),"Some notes on Logical Volume Manager. What it is, why it is, and how to use it.",Feb 2017
+Fiddling with Logrotate,"Logrotate is one of those built-in Linux things that we don't use often enough. Rotating logs, archiving them to S3, pushing them to some remote server/endpoint, etc. It's all doable with Logrotate.",Jan 2017
+AWS Route 53 Notes,"Route53: what, why, how, why not.",Jan 2017
+AWS EBS Types Read/Write Benchmarks,"I ran hdparm and dd on GP2, PIOPS, SC1, ST1, and Magnetic EBS volumes. Check out the results.",Jan 2017
+Logging AWS spot instance termination,AWS spot instances provide 90% savings over on-demand servers. The downside? AWS can yank them whenever they want and you have 2 minutes to back things up. How do you know when the starting pistol fires?,Oct 2016
+Decompressing request using GZIP with Nginx,"If you're using a Lua module with Nginx, then decompressing GZIPped data requires some extra handling.",Oct 2016
+Compressing output using GZIP with PHP 5.3,"It's pretty hard to compress output with GZIP in PHP 5.3, but in case you ever need to, here's how.",Oct 2016
+Introduction to Load-balancing with Nginx,I'll explore the basics of self-hosted load-balancing with Nginx using a convenient testing setup using Vagrant.,Aug 2016
+Reading JWT token in Phalcon,Here's how to read a response JSON web token in PHP Phalcon.,Aug 2016
+Setting Custom 404 Controller in Phalcon,"After CodeIgniter, Phalcon was the second PHP framework that I used. Blazingly fast and easy-to-use, one of the first things I did was create a custom 404 response controller.",Aug 2016
+DNS Record Types,A quick guide to the different DNS record types.,Aug 2016
+Securing Nginx with Let's Encrypt Free SSL Certificate,"Let's Encrypt is the self-hosted, industry-standard method of generating SSL certificates for your applications. If you're still paying for SSL certificates you're doing it wrong.",Aug 2016
+Vertical Scaling vs Horizontal Scaling,"The differences between vertical and horizontal scaling may be simple, but they're critical to using cloud technologies effectively.",Aug 2016
+Essential VIM Keyboard Shortcuts,A quick guide of essential VIM shortcuts.,Aug 2016
+Notes on AWS SQS,"AWS SQS: what, why, how, why not.",Aug 2016
+MySQL Physical Backup with Innobackupex,"Innobackupex, part of Percona Xtrabackup, can perform physical backups of your MySQL databases.",Aug 2016
+Introduction to MySQL Partitioning,"MySQL partitioning basics: what, why, and how.",Aug 2016
+Introduction to Fluentd,"The legacy logging infrastructure we have to deal with today was designed for humans and not machines, so a lot of effort is wasted trying to make backend systems understand log data.",Aug 2016
+NANO Keyboard Shortcuts,A quick reference of NANO shortcuts.,Aug 2016
+JSON Web Tokens,"The following document assesses the possibility of using JWT (pronounced ""jot"") as a token exchange mechanism for APIs.",Aug 2016
+Hello @World,"Hello, World, you little blue thing...",Aug 2016
